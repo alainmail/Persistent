@@ -1,0 +1,10 @@
+mstsc.exe
+
+dns : ec2-54-93-66-237.eu-central-1.compute.amazonaws.com
+login : administrator
+mp : @6F3.*uj2P
+
+User :
+alainmail
+access key id : AKIAISMJTY7MWG32DC6Q
+secret access key : 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
